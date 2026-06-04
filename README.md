@@ -45,8 +45,3 @@ The project focuses on **multi-hop question answering** using cleaned and trunca
 - Experiments are based on the **[MusiQue dataset](https://arxiv.org/abs/2108.00573)**, truncated to 100 questions per category.  
 
 - Special thanks to **Prof. Jyh-Shing Roger Jang** for supervision and guidance.  
-
-## Report / Paper
-
-A full technical report with methodology, detailed experiments, and analysis is in preparation.  
-Results shown here are preliminary, and further optimizations are in progress.
